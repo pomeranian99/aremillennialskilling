@@ -1,0 +1,45 @@
+#boomersNeedToKnow {
+  margin-left: 4vw;
+  margin-right: 4vw;
+  margin-bottom: 2vh;
+}
+
+#omg {
+  font-size: 3vw;
+  margin-top: 1vw;
+}
+
+#wtf {
+  font-family: 'Adamina', serif;
+  font-size: 9.5vw;
+}
+
+#modalAndChill {
+  font-family: 'Adamina', serif;
+  font-size: 1.6vw;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#v {
+  font-family: 'Adamina', serif;
+  font-size: 3vw;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.btn.btn-default {
+  font-size: 2.5vw;
+  opacity: 0.2;
+  margin-top: 1vw;
+  color: #333333;
+  background-color: #FFFFFF;
+  background-image: linear-gradient(to bottom, #FFFFFF, #ffffff);
+  border-color: #ffffff #ffffff #FFFFFF;
+}
+.btn.btn-default:hover {
+    color: #333333;
+    background-color: #ffffff;
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+    border-color: #ffffff #ffffff #FFFFFF;
+}
